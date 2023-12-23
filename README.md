@@ -6,12 +6,11 @@ Eu sou o Felipe, mas pode me chamar de <a href="https://www.linkedin.com/in/feli
 <br>
 
 <div align="center">
-  <a href="https://github.com/FelipeMelo-developer">
-    <img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lipitouai&theme=dark&mode=weekly" />
-    <img width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipitouai&theme=dark&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/FelipeMelo-developer/">
+    <img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FelipeMelo-developer&theme=dark&mode=weekly" />
+    <img width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMelo-developer&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
-
 
 <div style="display: inline_block"><br>
 <hr>
