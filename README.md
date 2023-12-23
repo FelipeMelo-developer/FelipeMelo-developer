@@ -14,16 +14,54 @@ Eu sou o Felipe, mas pode me chamar de <a href="https://www.linkedin.com/in/feli
 
 <div style="display: inline_block"><br>
 <hr>
-<h3>📚 Tenho conhecimento em:</h3><br>  
-<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><p>HTML</p>
+<h3>📚 Tenho conhecimento em</h3><br>  
+👩‍💻 Linguagem:
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<p> </p>
+👨‍💻 Escritório:
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white">
+<p></p>
+💻 Sistema Operacional:
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<p></p>
+☁ Nuvem
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white">
+<p></p>
+🚀 Estruturas e Biblioteca: 
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
+<p></p>
+💻 Terminal: 
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<p></p>
+💻 Virtualização:	<img align="center" height="30" width="100" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
+<p></p>
+⏱️ Plataformas de fluxo de trabalho
+ <img align="center" height="30" width="100" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
 </div>
+
 <div>
   <div style="display: inline_block">
-<h3>🌱 Aprendendo:</h3><br>
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS3
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">Javascript
-     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">GIT
-     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/duribeiro/duribeiro/48250c380ca2b4a2906c4c3614f1c4dcc83e02d7/assets/GitHub.png">Github
+<h3>🌱 Aprendendo</h3><br>
+👩‍💻 Linguagem:
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <p> </p>
+  ☁ Nuvem:
+  <img align="center" height="30" width="100" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <p> </p>
+  ⚡ Banco de dados: 
+  <img align="center" height="30" width="100" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
+  <p> </p>
+🚀 Estruturas e Biblioteca: 
+  <img align="center" height="30" width="100" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+   
 </div>
 <br>
   <h3> Soft Skills 💡</h3>
