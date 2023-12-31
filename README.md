@@ -1,5 +1,5 @@
 <h1>Olá!<br>
-Eu sou o Felipe, mas pode me chamar de <a href="https://www.linkedin.com/in/felipedemeloab/"> Lip👋</a></h1>
+Eu sou o <a href="https://www.linkedin.com/in/felipedemeloab/"> Felipe👋</a></h1>
 
 
 🎓 Estudante na <a href="https://estacio.br/"> UNESA</a>
