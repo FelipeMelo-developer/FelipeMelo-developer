@@ -2,12 +2,34 @@
 Eu sou o Felipe, mas pode me chamar de <a href="https://www.linkedin.com/in/felipedemeloab/"> Lip👋</a></h1>
 
 
-🏢 Atuação Profissional
-- 🚀 Analista de Suporte na <a href="https://cactusgaming.net/pt-br/"> Cactus🌵</a>
-- 🎓 Graduando em Administração e Analise Desenvolvimento de Sistemas na UNESA
-
- ⚡ Curiosidade: Sou fã de Star War e apaixonado por chocolate 🍫
+🎓 Estudante na <a href="https://estacio.br/"> UNESA</a>
+- 8º Periodo  em Administração;
+- 1º Periodo em Analise Desenvolvimento de Sistemas.
+  
+ ⚡ Curiosidade: Sou fã de ***Star War*** e amo ***chocolate*** 🍫
  <br>
+
+<br>
+
+  
+ <hr>
+
+<br>
+<div align="center">
+  <a href="https://github.com/FelipeMelo-developer/">
+    <img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FelipeMelo-developer&theme=dark&mode=weekly" />
+    <img width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMelo-developer&theme=dark&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+<br>
+<h3>Estou evoluindo a cada dia, fique avontade para visualizar meus repositorios e entrar em contato</h3><br>
+
+<div align="center">
+  
+  ![Baby Yoda](https://media.tenor.com/b87pgYxAz0AAAAAC/baby-yoda-star-wars.gif)
+
+</div>
+
 <div style="display: inline_block"><br>
 <h3>📚 Tenho conhecimento em</h3><br>  
 👩‍💻 Linguagem:
@@ -58,28 +80,7 @@ Eu sou o Felipe, mas pode me chamar de <a href="https://www.linkedin.com/in/feli
   <img align="center" height="30" width="100" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
    
 </div>
-<br>
-  <h3> Soft Skills 💡</h3>
 
-<p>Criatividade ✅</p>
-  
- <hr>
-
-<br>
-<div align="center">
-  <a href="https://github.com/FelipeMelo-developer/">
-    <img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FelipeMelo-developer&theme=dark&mode=weekly" />
-    <img width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMelo-developer&theme=dark&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-<br>
-<h3>Estou evoluindo a cada dia, fique avontade para visualizar meus repositorios e entrar em contato</h3><br>
-
-<div align="center">
-  
-  ![Baby Yoda](https://media.tenor.com/b87pgYxAz0AAAAAC/baby-yoda-star-wars.gif)
-
-</div>
 <div>   
  <h3>💻 Minhas redes:</h3><br>
   <a href="https://www.linkedin.com/in/felipedemeloab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
