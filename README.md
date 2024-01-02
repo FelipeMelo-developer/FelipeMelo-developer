@@ -2,11 +2,11 @@
 Eu sou o <a href="https://www.linkedin.com/in/felipedemeloab/"> Felipe👋</a></h1>
 
 
-🎓 Estudante na <a href="https://estacio.br/"> UNESA</a>
+🎓 Estudante na <a href="https://estacio.br/"> UNESA</a>.
 - 8º Periodo  em Administração;
 - 1º Periodo em Analise Desenvolvimento de Sistemas.
   
- ⚡ Curiosidade: Sou fã de ***Star War*** e amo ***chocolate*** 🍫
+ ⚡ Curiosidade: Sou fã de ***Star War*** e amo ***chocolate.*** 🍫
  <br>
 
 <br>
@@ -22,7 +22,7 @@ Eu sou o <a href="https://www.linkedin.com/in/felipedemeloab/"> Felipe👋</a></
   </a>
 </div>
 <br>
-<h3>Estou evoluindo a cada dia, fique avontade para visualizar meus repositorios e entrar em contato</h3><br>
+<h3>Estou evoluindo a cada dia, fique avontade para visualizar meus repositorios e entrar em contato.</h3><br>
 
 <div align="center">
   
