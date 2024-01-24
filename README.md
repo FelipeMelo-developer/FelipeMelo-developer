@@ -4,7 +4,7 @@ Eu sou o <a href="https://www.linkedin.com/in/felipedemeloab/"> Felipe👋</a></
 
 🎓 Estudante na <a href="https://estacio.br/"> UNESA</a>.
 - 8º Periodo  em Administração;
-- 1º Periodo em Analise Desenvolvimento de Sistemas.
+- 2º Periodo em Analise Desenvolvimento de Sistemas.
   
  ⚡ Curiosidade: Sou fã de ***Star War*** e amo ***chocolate***.🍫 
  <br>
@@ -34,6 +34,8 @@ Eu sou o <a href="https://www.linkedin.com/in/felipedemeloab/"> Felipe👋</a></
 <h3>📚 Tenho conhecimento em</h3><br>  
 👩‍💻 Linguagem:
 <img align="center" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">  
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <p> </p>
 👨‍💻 Escritório:
 <img align="center" height="30" width="100" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
@@ -67,8 +69,7 @@ Eu sou o <a href="https://www.linkedin.com/in/felipedemeloab/"> Felipe👋</a></
   <div style="display: inline_block">
 <h3>🌱 Aprendendo</h3><br>
 👩‍💻 Linguagem:
-<img align="center" height="30" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" height="30" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+
   <p> </p>
   ☁ Nuvem:
   <img align="center" height="30" width="100" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
