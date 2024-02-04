@@ -22,13 +22,6 @@ Eu sou o <a href="https://www.linkedin.com/in/felipedemeloab/"> Felipe👋</a></
   </a>
 </div>
 <br>
-<h3>Estou evoluindo a cada dia, fique avontade para visualizar meus repositorios e entrar em contato.</h3><br>
-
-<div align="center">
-  
-  ![Baby Yoda](https://media.tenor.com/b87pgYxAz0AAAAAC/baby-yoda-star-wars.gif)
-
-</div>
 <hr>
 <div style="display: inline_block"><br>
 <h3>📚 Tenho conhecimento em</h3><br>  
@@ -79,18 +72,22 @@ Eu sou o <a href="https://www.linkedin.com/in/felipedemeloab/"> Felipe👋</a></
   <p> </p>
 🚀 Estruturas e Biblioteca: 
   <img align="center" height="30" width="100" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+   <br>
+   <br>
    
 </div>
 
-<div>   
+![Baby Yoda](https://media.tenor.com/b87pgYxAz0AAAAAC/baby-yoda-star-wars.gif)
+  <h3>Estou evoluindo a cada dia, fique avontade para visualizar meus repositorios e entrar em contato.</h3>
+
+  <div>   
  <h3>💻 Minhas redes:</h3><br>
   <a href="https://www.linkedin.com/in/felipedemeloab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/felipemelomylife/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.tiktok.com/@heylipee" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UCLiSYHX9E5iQmYcprV8dM-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/sG6VFprp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
 
  <h3>📲 Contato:</h3><br>  
   <a href="mailto:felipedemeloab@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://wa.me/5521966375165"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   </div>
