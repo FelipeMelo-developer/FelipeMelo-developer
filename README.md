@@ -1,25 +1,12 @@
-<h1>Olá!<br>
-Eu sou o <a href="https://www.linkedin.com/in/felipedemeloab/"> Felipe👋</a></h1>
-
-🎓 Estudante na <a href="https://estacio.br/"> UNESA</a>.
-- 8º Período em Administração;
-- 2º Período em Análise e Desenvolvimento de Sistemas.
+<h1>Olá! Sou o <a href="https://www.linkedin.com/in/felipedemeloab/"> Felipe 🖖🤖</a></h1>
+<p>🎓 Estudante de Análise e Desenvolvimento de Sistemas.</p>
+<p>⚡ Curiosidade: Sou fã de <strong>Star Wars</strong> e amo <strong>chocolate</strong>.🍫 </p>
 
 <div style="float:right;">
-  <img src="https://media.tenor.com/b87pgYxAz0AAAAAC/baby-yoda-star-wars.gif" width="40%" alt="Baby Yoda">
+  <img src="https://media.tenor.com/b87pgYxAz0AAAAAC/baby-yoda-star-wars.gif" width="20%" alt="Baby Yoda">
 </div>
-
-<h3>Estou evoluindo a cada dia, fique à vontade para visualizar meus repositórios e entrar em contato.</h3>
-  
-⚡ Curiosidade: Sou fã de <strong>Star Wars</strong> e amo <strong>chocolate</strong>.🍫 
 <br>
-
-
-<br>
-
-  
- <hr>
-
+<hr>
 <br>
 <div align="center">
   <a href="https://github.com/FelipeMelo-developer/">
