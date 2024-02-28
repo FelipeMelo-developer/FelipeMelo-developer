@@ -1,13 +1,19 @@
 <h1>Olá!<br>
 Eu sou o <a href="https://www.linkedin.com/in/felipedemeloab/"> Felipe👋</a></h1>
 
-
 🎓 Estudante na <a href="https://estacio.br/"> UNESA</a>.
-- 8º Periodo  em Administração;
-- 2º Periodo em Analise Desenvolvimento de Sistemas.
+- 8º Período em Administração;
+- 2º Período em Análise e Desenvolvimento de Sistemas.
+
+<div style="float:right;">
+  <img src="https://media.tenor.com/b87pgYxAz0AAAAAC/baby-yoda-star-wars.gif" width="40%" alt="Baby Yoda">
+</div>
+
+<h3>Estou evoluindo a cada dia, fique à vontade para visualizar meus repositórios e entrar em contato.</h3>
   
- ⚡ Curiosidade: Sou fã de ***Star War*** e amo ***chocolate***.🍫 
- <br>
+⚡ Curiosidade: Sou fã de <strong>Star Wars</strong> e amo <strong>chocolate</strong>.🍫 
+<br>
+
 
 <br>
 
@@ -25,25 +31,20 @@ Eu sou o <a href="https://www.linkedin.com/in/felipedemeloab/"> Felipe👋</a></
 <hr>
 <div style="display: inline_block"><br>
 <h3>📚 Tenho conhecimento em</h3><br>  
-👩‍💻 Linguagem:
-<img align="center" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" height="30" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">  
-<img align="center" height="30" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<p> </p>
-👨‍💻 Escritório:
-<img align="center" height="30" width="100" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
-<img align="center" height="30" width="100" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-<img align="center" height="30" width="100" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-<img align="center" height="30" width="100" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
-<img align="center" height="30" width="100" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
-<img align="center" height="30" width="100" src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white">
-<p></p>
 💻 Sistema Operacional:
 <img align="center" height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img align="center" height="30" width="100" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img align="center" height="30" width="100" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <p></p>
+👩‍💻 Linguagem:
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">  
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<p> </p>
 ☁ Nuvem
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<p> </p>  
+📊CRM
 <img align="center" height="30" width="100" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white">
 <p></p>
 🚀 Estruturas e Biblioteca: 
@@ -52,37 +53,31 @@ Eu sou o <a href="https://www.linkedin.com/in/felipedemeloab/"> Felipe👋</a></
 💻 Terminal: 
 <img align="center" height="30" width="100" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <p></p>
-💻 Virtualização:	<img align="center" height="30" width="100" src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
-<p></p>
-⏱️ Plataformas de fluxo de trabalho
+👨‍💻 Escritório:
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
+<img align="center" height="30" width="100" src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white">
  <img align="center" height="30" width="100" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+<p></p>
 </div>
 
 <div>
   <div style="display: inline_block">
-<h3>🌱 Aprendendo</h3><br>
-👩‍💻 Linguagem:
-
-  <p> </p>
-  ☁ Nuvem:
+<h3>🌱 Aprendendo:</h3><br>
   <img align="center" height="30" width="100" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <p> </p>
-  ⚡ Banco de dados: 
-  <img align="center" height="30" width="100" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
-  <p> </p>
-🚀 Estruturas e Biblioteca: 
+   <img align="center" height="30" width="100" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">   
   <img align="center" height="30" width="100" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
    <br>
    <br>
    
 </div>
 
-![Baby Yoda](https://media.tenor.com/b87pgYxAz0AAAAAC/baby-yoda-star-wars.gif)
-  <h3>Estou evoluindo a cada dia, fique avontade para visualizar meus repositorios e entrar em contato.</h3>
-
-  <div>   
+<div>   
  <h3>💻 Minhas redes:</h3><br>
-  <a href="https://www.linkedin.com/in/felipedemeloab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/felipedemelodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/felipemelomylife/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.tiktok.com/@heylipee" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UCLiSYHX9E5iQmYcprV8dM-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
