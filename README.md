@@ -3,7 +3,7 @@
 <p>⚡ Fã de <strong>Star Wars</strong>👨‍🚀 que ama <strong>chocolate</strong>.🍫 </p>
 
 <div style="float:right;">
-  <img src="https://media.tenor.com/b87pgYxAz0AAAAAC/baby-yoda-star-wars.gif" width="20%" alt="Baby Yoda">
+  <img src="https://media.tenor.com/b87pgYxAz0AAAAAC/baby-yoda-star-wars.gif" width="25%" alt="Baby Yoda">
 </div>
 <br>
 <div style="display: inline_block"><br>
@@ -68,8 +68,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/FelipeMelo-developer/">
-    <img width=45% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FelipeMelo-developer&theme=dark&mode=weekly" />
-    <img width=38% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMelo-developer&theme=dark&hide_border=false&&layout=compact"/>
+    <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FelipeMelo-developer&theme=dark&mode=weekly" />
+    <img width=42% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMelo-developer&theme=dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 <br>
