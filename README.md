@@ -8,10 +8,8 @@
 ⚡ Fã de <strong>Star Wars</strong>👨‍🚀<br>
 💖 Amo <strong>chocolate</strong>🍫 e busca pelo <strong>conhecimento</strong>💡
 
-<br><br><br>
+<br><br>
 <p> </p>
-
-
 
 <div align="center">
   <a href="https://github.com/FelipeMelo-developer/">
@@ -53,20 +51,19 @@
 <hr>
  <h3>O que eu tenho feito:</h3>
   
-<img align="left" width="200" margin="5px" height=auto src="assets/coffee_cup.webp">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzNuMzd6cHY0ZTJkYWk0NXo2bzhyMmw2dmUwcWVxemcyMm5ucTJ3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3fZO5GMbkHy2DIwE/giphy.webp" alt="Baby Yoda" align="left" alt="Vader dançando" width="35%" height=auto>
 
-      Trabalho freelancers 🤨
+      Trabalhos freelancers 🤨
       Estudando JAVA e AWS 🤯
       Se divertindo com o código 🤓
 ###
 </div>
-
+<br>
 <div>   
  <h3>💻 Minhas redes:</h3>
   <a href="https://www.linkedin.com/in/felipedemeloab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/felipedemelodev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.tiktok.com/@heylipee" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
-  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
  <h3>📲 Contato:</h3>  
   <a href="mailto:felipedemeloab@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
