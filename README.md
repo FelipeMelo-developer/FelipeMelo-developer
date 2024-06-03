@@ -7,10 +7,8 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas.<br>
 ⚡ Fã de <strong>Star Wars</strong>👨‍🚀<br>
 💖 Amo <strong>chocolate</strong>🍫 e busca pelo <strong>conhecimento</strong>💡
-
 <br><br>
-<p> </p>
-
+<hr>
 <div align="center">
   <a href="https://github.com/FelipeMelo-developer/">
     <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=FelipeMelo-developer&theme=dark&mode=weekly" />
@@ -59,6 +57,7 @@
 ###
 </div>
 <br>
+<hr>
 <div>   
  <h3>💻 Minhas redes:</h3>
   <a href="https://www.linkedin.com/in/felipedemeloab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
