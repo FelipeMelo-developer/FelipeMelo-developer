@@ -1,9 +1,14 @@
-  <img src="https://media.tenor.com/b87pgYxAz0AAAAAC/baby-yoda-star-wars.gif" alt="Baby Yoda" align="right" alt="yoda" width="25%" height=auto>
-
 #  Olá, sou o <a href="https://www.linkedin.com/in/felipedemeloab/"> Felipe! </a></h1>
+<br> 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamI3Zml3MDYweHRra2k3ZjMwbjN2eG9qeGNsNG1teGRlaTQxZWptYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abrIVCzBfv8O8aA/giphy.webp" alt="Baby Yoda" align="right" alt="yoda" width="35%" height=auto>
+
+👨‍💻 Analista de Suporte ao Cliente;<br>
+🎓 Preste a concluir o curso de Administração.<br>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas.<br>
-⚡ Fã de <strong>Star Wars</strong>👨‍🚀 que ama <strong>chocolate</strong>.🍫
-<br><br><br><br><br>
+⚡ Fã de <strong>Star Wars</strong>👨‍🚀<br>
+💖 Amo <strong>chocolate</strong>🍫 e busca pelo <strong>conhecimento</strong>💡
+
+<br><br><br>
 <p> </p>
 
 
@@ -46,16 +51,15 @@
  <img align="center" height="30" width="100" src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white">
 </div>
 <hr>
-<br>
-
-## O que eu tenho feito
+ <h3>O que eu tenho feito:</h3>
   
-  <br>
-      Trabalho freelancers  🤨
+<img align="left" width="200" margin="5px" height=auto src="assets/coffee_cup.webp">
+
+      Trabalho freelancers 🤨
       Estudando JAVA e AWS 🤯
       Se divertindo com o código 🤓
+###
 </div>
-
 
 <div>   
  <h3>💻 Minhas redes:</h3>
