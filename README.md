@@ -1,6 +1,12 @@
-#  Olá, sou o <a href="https://www.linkedin.com/in/felipedemeloab/"> Felipe! 🤠🧀 </a></h1>
+  <img src="https://media.tenor.com/b87pgYxAz0AAAAAC/baby-yoda-star-wars.gif" alt="Baby Yoda" align="right" alt="yoda" width="25%" height=auto>
+
+#  Olá, sou o <a href="https://www.linkedin.com/in/felipedemeloab/"> Felipe! </a></h1>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas.<br>
 ⚡ Fã de <strong>Star Wars</strong>👨‍🚀 que ama <strong>chocolate</strong>.🍫
+<br><br><br><br><br>
+<p> </p>
+
+
 
 <div align="center">
   <a href="https://github.com/FelipeMelo-developer/">
@@ -41,9 +47,17 @@
 </div>
 <hr>
 <br>
-<div style="float:right;">
-  <img src="https://media.tenor.com/b87pgYxAz0AAAAAC/baby-yoda-star-wars.gif" width="25%" alt="Baby Yoda">
+
+  ##O que eu tenho feito
+  
+  <br>
+      Trabalho freelancers  🤨
+      Estudando JAVA e AWS 🤯
+      Se divertindo com o código 🤓
+###
 </div>
+
+
 <div>   
  <h3>💻 Minhas redes:</h3>
   <a href="https://www.linkedin.com/in/felipedemeloab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
