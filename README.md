@@ -48,13 +48,12 @@
 <hr>
 <br>
 
-  ##O que eu tenho feito
+## O que eu tenho feito
   
   <br>
       Trabalho freelancers  🤨
       Estudando JAVA e AWS 🤯
       Se divertindo com o código 🤓
-###
 </div>
 
 
