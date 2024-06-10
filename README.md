@@ -6,7 +6,7 @@
 🎓 Preste a concluir o curso de Administração.<br>
 🎓 Estudante de Análise e Desenvolvimento de Sistemas.<br>
 ⚡ Fã de <strong>Star Wars</strong>👨‍🚀<br>
-💖 Amo <strong>chocolate</strong>🍫 e de buscar novos <strong>conhecimentos</strong>💡
+💖 Amo <strong>chocolate</strong>🍫 e buscar novos <strong>conhecimentos</strong>💡
 <br><br>
 <hr>
 <div align="center">
