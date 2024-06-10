@@ -1,6 +1,6 @@
 #  Olá, sou o <a href="https://www.linkedin.com/in/felipedemeloab/"> Felipe!</a> 🖖</h1>
 <br> 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamI3Zml3MDYweHRra2k3ZjMwbjN2eG9qeGNsNG1teGRlaTQxZWptYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abrIVCzBfv8O8aA/giphy.webp" alt="Baby Yoda" align="right" alt="yoda" width="35%" height=auto>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamI3Zml3MDYweHRra2k3ZjMwbjN2eG9qeGNsNG1teGRlaTQxZWptYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abrIVCzBfv8O8aA/giphy.webp" alt="Fight" align="right" alt="yoda" width="35%" height=auto>
 
 👨‍💻 Analista de Suporte ao Cliente;<br>
 🎓 Preste a concluir o curso de Administração.<br>
