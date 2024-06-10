@@ -64,6 +64,5 @@
   <a href="https://www.instagram.com/felipedemelodev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.tiktok.com/@heylipee" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"></a>
 
- <h3>📲 Contato:</h3>  
-  <a href="mailto:felipedemeloab@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  </div>
+
+<img src="https://j.gifs.com/zppZ98.gif" alt="Baby Yoda" align="right" alt="yoda" width="50%" height=auto>
